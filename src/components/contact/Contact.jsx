@@ -29,21 +29,21 @@ const Contact = () => {
             <HiOutlineMail className='contact__option-icon' />
             <h4>Email</h4>
             <h5>hiteshprajapati2094@gmail.com</h5>
-            <a href="mailto:hiteshprajapati2094@gmail.com" target='_blank'>Send a message</a>
+            <a href="mailto:hiteshprajapati2094@gmail.com" target='_blank' rel="noreferrer">Send a message</a>
           </article>
 
           <article className="contact__option">
             <BsInstagram className='contact__option-icon' />
             <h4>Instagram</h4>
             <h5>_hitesh_421</h5>
-            <a href="https://www.instagram.com/_hitesh_421/" target='_blank'>Send a message</a>
+            <a href="https://www.instagram.com/_hitesh_421/" target='_blank' rel="noreferrer">Send a message</a>
           </article>
 
           <article className="contact__option">
             <SiWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
             <h5>+917567270120</h5>
-            <a href="https://api.whatsapp.com/send?phone=+917567270120" target='_blank'>Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone=+917567270120" target='_blank' rel="noreferrer">Send a message</a>
           </article>
 
         </div>
