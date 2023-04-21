@@ -25,7 +25,7 @@ const footer = () => {
       </div>
 
       <div className="footer__desclaimer">
-        <small>Desclaimer: Made for React Practice Purpose</small>
+        <small>Disclaimer: Made for React Practice Purpose</small>
       </div>
 
     </footer>
