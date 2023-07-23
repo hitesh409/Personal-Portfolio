@@ -25,9 +25,9 @@ const data = [
   {
     id:3,
     image: IMG3,
-    title: 'Driver Drowsiness Detection System',
-    github: 'https://github.com/hitesh409/Driver-Drowsiness-Detection',
-    demo: 'https://github.com/hitesh409/Driver-Drowsiness-Detection'
+    title: 'React Meals',
+    github: 'https://github.com/hitesh409/Food-App-React',
+    demo: 'https://react-meals-by-hitesh.netlify.app/'
   },
   {
     id:4,
